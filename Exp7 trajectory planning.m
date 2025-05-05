@@ -14,4 +14,7 @@ ylabel('velocities')
 legend('X','Y')
 
 
+%q position
+%qd velocity
+%qdd acceleration 
 
